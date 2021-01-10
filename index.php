@@ -7,5 +7,6 @@
 </head>
 <body>
 	<h1>LOL</h1>
+	<?PHP phpinfo(); ?>
 </body>
 </html>
